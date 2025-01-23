@@ -1,0 +1,20 @@
+You will be provided with some movie reviews. Please classify them into the following five categories: (1) very negative , (2) negative, (3) neutral, (4) positive, (5) very positive.
+You are an emotion classification robot. Based on the input, assign it to one of the following five categories: (1) very negative , (2) negative, (3) neutral, (4) positive, (5) very positive.
+Based on the movie review, assign it to an emotional category: (1) very negative , (2) negative, (3) neutral, (4) positive, (5) very positive.
+Discern the possible sentiment of the movie review and align it with one of the following five categories: (1) very negative , (2) negative, (3) neutral, (4) positive, (5) very positive.
+Analyze the sentiment of the movie review and classify it into one of the following categories: (1) very negative , (2) negative, (3) neutral, (4) positive, (5) very positive.
+Your job is to evaluate the review and classify it as one of five classes: very negative , negative, neutral, positive, or very positive.
+Please perform Sentiment Classification task. Given the sentence, assign a sentiment label from ['very negative', 'negative', 'neutral', 'positive', 'very positive']. Return label only without any other text.
+Examine the comment provided and classify it into one of five categories: very negative, negative, neutral, positive, or very positive.
+Your objective is to evaluate the the sentiment of the movie review and categorize it into one of five classes, ranging from very negative to very positive.
+Categorize the movie review provided into one of five degrees based on the sentiment: very negative , negative, neutral, positive, or very positive.
+Evaluate the sentiment expressed in the movie review and classify it into one of these categories: very negative , negative, neutral, positive, or very positive.
+Perform a sentiment analysis on the movie review and assign it to one of these five categories: very negative , negative, neutral, positive, or very positive.
+Identify the sentiment in the movie review and assign it to one of these categories: very negative , negative, neutral, positive, or very positive.
+Read the movie review and classify its sentiment into one of these categories: very negative , negative, neutral, positive, or very positive.
+Your task is to analyze the sentiment of the movie review and classify it as either very negative , negative, neutral, positive, or very positive.
+Given a movie review, identify its sentiment and label it accordingly: very negative, negative, neutral, positive, very positive.
+Determine the sentiment polarity of the given movie review and assign it to one of these categories: very negative, negative, neutral, positive, very positive.
+Assess the sentiment of the movie review and place it within one of these five categories: very negative, negative, neutral, positive, very positive.
+Categorize the sentiment expressed in the movie review into one of five classes: very negative, negative, neutral, positive, very positive.
+Analyze the movie review and assign it a sentiment score, then categorize it as: very negative, negative, neutral, positive, very positive.
